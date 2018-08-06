@@ -1,0 +1,51 @@
+$default: #ffffff;
+$body-bg: #ffffff;
+$default-text: #051627;
+$help-text: #808080;
+$label-text: #ffffff;
+
+$disabled: rgba(22, 21, 21, 0.52);;
+$disabled-bg: tint($disabled, 15%);
+$border: #d6d6d6;
+$border-light: tint($border, 15%);
+$input-border: shade($border, 5%);
+$input-background: #ffffff;
+
+//css by Aquibur Rahman Khan
+$sidebar-top: #00B4FF;
+//css end
+$sidebar: #005970;
+$sidebar-text: #ffffff;
+$sidebar-active: #B6B6B6;
+
+$dropdown-text: #022b36;
+$bootstrap-panel-text: #7d7d7d;
+$bootstrap-panel-bg: #ffffff;
+$mail-box: whitesmoke;
+$auth-panel-background: #ffffff;
+$progress-background: rgba(#000000, 0.07);
+$progress-default: rgba(#000000, 0.15);
+
+$primary: #4FCBFF !default;//009EE1
+$info: #54CCFF !default;
+$success: #00D4A1 !default;
+$warning: #F8CF51 !default;
+$danger: #ed675A !default;
+
+$primary-light: tint($primary, 30%);
+$info-light: tint($info, 30%);
+$success-light: tint($success, 30%);
+$warning-light: tint($warning, 30%);
+$danger-light: tint($danger, 30%);
+
+$primary-dark: shade($primary, 15%);
+$info-dark: shade($info, 15%);
+$success-dark: shade($success, 15%);
+$warning-dark: shade($warning, 15%);
+$danger-dark: shade($danger, 15%);
+
+$primary-bg: tint($primary, 20%);
+$info-bg: tint($info, 20%);
+$success-bg: tint($success, 20%);
+$warning-bg: tint($warning, 20%);
+$danger-bg: tint($danger, 20%);
